@@ -1,0 +1,10 @@
+.nextflow
+.nextflow.log*
+work
+outputs
+nextflow
+trace.txt*
+.DS_Store
+dag.png*
+timeline.html*
+samples.tsv
